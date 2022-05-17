@@ -1,9 +1,5 @@
 ### Hi I am Mehmet Kemal. 👋
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=/Mehmet-Kemal-Aslan)](https://github.com//Mehmet-Kemal-Aslan)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=/Mehmet-Kemal-Aslan&layout=compact)](https://github.com//Mehmet-Kemal-Aslan)
-
 <!--
 **Mehmet-Kemal-Aslan/Mehmet-Kemal-Aslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
