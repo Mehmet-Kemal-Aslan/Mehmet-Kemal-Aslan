@@ -1,6 +1,5 @@
 ### Hi I am Mehmet Kemal. 👋
 I am learning .Net
-<button><a href=”https://www.linkedin.com/in/mehmetkemalaslan/"></a></button>
 
 <!--
 **Mehmet-Kemal-Aslan/Mehmet-Kemal-Aslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
