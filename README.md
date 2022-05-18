@@ -1,4 +1,4 @@
-
+<img src="https://giphy.com/embed/MGdfeiKtEiEPS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
 ### Hi I am Mehmet Kemal. 👋
 
 [linkedin]: https://www.linkedin.com/in/mehmetkemalaslan/
