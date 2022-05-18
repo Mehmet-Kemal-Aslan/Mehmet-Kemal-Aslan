@@ -1,7 +1,8 @@
 ### Hi I am Mehmet Kemal. 👋
 
-[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left"/>][linkedin]
 [linkedin]: https://www.linkedin.com/in/mehmetkemalaslan/
+[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left"/>][linkedin]
+
 
 <!--
 **Mehmet-Kemal-Aslan/Mehmet-Kemal-Aslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
