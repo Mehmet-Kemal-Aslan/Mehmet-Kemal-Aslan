@@ -8,6 +8,7 @@
 [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left"/>][linkedin]
 
 <br/>
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmet-Kemal-Aslan&layout=compact">
 
