@@ -1,8 +1,7 @@
-
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="right" width="320" height="200">
-
 #### Hi I am Mehmet Kemal. 👋
 ## Intersted in .Net
+
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="right" width="320" height="200">
 
 ###### Contact me
 [linkedin]: https://www.linkedin.com/in/mehmetkemalaslan/
