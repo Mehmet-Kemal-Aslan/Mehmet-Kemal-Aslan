@@ -11,7 +11,9 @@
 <br/>
 <br/>
 
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmet-Kemal-Aslan&layout=compact">
+-->
 
 
 <!--
