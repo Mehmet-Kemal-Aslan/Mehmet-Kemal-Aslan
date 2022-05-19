@@ -1,12 +1,11 @@
 #### Hi I am Mehmet Kemal. 👋
 ## Intersted in .Net
 
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="right" width="320" height="200">
-
 ###### Contact me
 [linkedin]: https://www.linkedin.com/in/mehmetkemalaslan/
 [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left"/>][linkedin]
 
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="right" width="320" height="200">
 <br/>
 <br/>
 
