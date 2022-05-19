@@ -7,6 +7,8 @@
 [linkedin]: https://www.linkedin.com/in/mehmetkemalaslan/
 [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left"/>][linkedin]
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"
+
 
 <!--
 **Mehmet-Kemal-Aslan/Mehmet-Kemal-Aslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
