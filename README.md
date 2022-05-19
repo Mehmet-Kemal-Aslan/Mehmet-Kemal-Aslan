@@ -6,10 +6,9 @@
 [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left"/>][linkedin]
 
 <br/>
+<br/>
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="right" width="320" height="200">
-
-<br/>
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmet-Kemal-Aslan&layout=compact">
