@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="right" width="400" height="250">
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="right" width="320" height="200">
 
 #### Hi I am Mehmet Kemal. 👋
 ## Intersted in .Net
