@@ -9,7 +9,7 @@
 <br/>
 <br/>
 
-<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="right" width="320" height="200">
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="left" width="320" height="200">
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmet-Kemal-Aslan&layout=compact">
