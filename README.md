@@ -1,5 +1,6 @@
 #### Hi I am Mehmet Kemal. 👋
 ## Intersted in .Net
+#### C#, JavaScript, HTML, MSSQL
 
 ###### Contact me
 [linkedin]: https://www.linkedin.com/in/mehmetkemalaslan/
