@@ -10,6 +10,8 @@
 <br/>
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="left" width="320" height="200">
+<br/>
+
 
 #### Location: Istanbul
 #### Graduated from Istanbul Technical University, Department of Physics Engineering
