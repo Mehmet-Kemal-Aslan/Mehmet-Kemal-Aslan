@@ -1,14 +1,14 @@
 #### Hi I am Mehmet Kemal. 👋
 ## Intersted in .Net
 #### C#, JavaScript, HTML, MSSQL
+#### Location: Istanbul
+#### Graduated from Istanbul Technical University, Department of Physics Engineering
 
 ###### Contact me
 [linkedin]: https://www.linkedin.com/in/mehmetkemalaslan/
 [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align="left"/>][linkedin]
 
-<br/>
-#### Location: Istanbul
-#### Graduated from Istanbul Technical University, Department of Physics Engineering
+
 <br/>
 <br/>
 
