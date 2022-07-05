@@ -11,6 +11,9 @@
 
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" align="left" width="320" height="200">
 
+#### Location: Istanbul
+#### Graduated from Istanbul Technical University, Department of Physics Engineering
+
 <!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehmet-Kemal-Aslan&layout=compact">
 -->
