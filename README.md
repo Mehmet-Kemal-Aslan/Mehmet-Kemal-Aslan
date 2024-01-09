@@ -1,6 +1,6 @@
 #### Hi I am Mehmet Kemal. 👋
 ## Intersted in .Net
-#### C#(.Net), JavaScript, Angular, HTML, MSSQL
+#### C#(.Net), JavaScript, TypeScript, Angular, HTML, MSSQL
 #### Location: Istanbul
 #### Graduated from Istanbul Technical University, Department of Physics Engineering
 
