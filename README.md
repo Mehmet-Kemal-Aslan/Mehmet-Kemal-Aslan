@@ -1,5 +1,8 @@
 #### Hi I am Mehmet Kemal. 👋
 ## .Net Developer
+- 🔭 I’m currently working on [ETicaretAPI](https://github.com/GizemG6/ETicaretAPI)
+
+- 🔭 I’m currently working on [ETicaretClient](https://github.com/GizemG6/ETicaretClient)
 #### C#(.Net), JavaScript, TypeScript, Angular, HTML, MSSQL
 #### Location: Istanbul
 #### Graduated from Istanbul Technical University, Department of Physics Engineering
