@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [ETicaretClient](https://github.com/Mehmet-Kemal-Aslan/ETicaretClient)
 #### C#(.Net), JavaScript, TypeScript, Angular, HTML, MSSQL
-Location: Istanbul
+Location: Istanbul\n
 Graduated from Istanbul Technical University, Department of Physics Engineering
 
 ###### Contact me
